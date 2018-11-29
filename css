@@ -1,4 +1,5 @@
-//basicbasicbasicbasic//
+/*basicbasicbasicbasic/
+
 color: #040440;
 background: img/Awoo;
 
@@ -6,6 +7,23 @@ background: img/Awoo;
 
 CLASS: Identifies more than one element, used multiple times (.class)
 ID: identifies only once (#id)
+
+font add: https://fonts.google.com/
+@font-face {
+    font-family! Delicious;
+    src: url('Delicious-Roman.otf');
+    }
+    
+@font-face {
+    font-family! Delicious;
+    font-weight: bold;
+    src: url('Delicious-Bold.otf');
+    
+    }
+
+*/
+
+
 
 body {
  background-color: hsl(0,0%,0%);
@@ -15,14 +33,26 @@ body {
 
 
 .Witness {
-    font-family:
-    font-size:
+    font-family: Trattatello;
+    font-size: 16pt;
+    border:
+    padding:
 }
 
 
 .History {
-    font-family:
-    font-size:
+    font-family: Helvetica;
+    font-size: 20;
+    border:
+    padding:
 
 }
 
+#Thanks {
+    font-family:
+    font-size:
+    border:
+    padding:
+
+
+}
