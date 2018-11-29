@@ -2,11 +2,15 @@
 color: #040440;
 background: img/Awoo;
 
-//class ans id|| 
+//class ans id||
+
+CLASS: Identifies more than one element, used multiple times (.class)
+ID: identifies only once (#id)
 
 body {
  background-color: hsl(0,0%,0%);
  font-family: Arial;
  font-size: 30px;
 }
+
 
