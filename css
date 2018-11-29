@@ -22,13 +22,14 @@ font add: https://fonts.google.com/
     }
 
 **CLOUD9 CONNECT TO GITHUB, online **
+**Stackblitz if all else fails**
 
 
 */
 
 
 
-body {
+#body {
  background-color: hsl(0,0%,0%);
  font-family: Arial;
  font-size: 30px;
