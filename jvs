@@ -2,3 +2,7 @@
 
 //for loop practice//
 
+//var alpha = "ABCDEFG";
+  var length = alpha.length;
+  document.write(length);
+  comes back 7 == counts characters, starts at 0;
