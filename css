@@ -3,7 +3,7 @@
 color: #040440;
 background: img/Awoo;
 
-//class ans id||
+//class and id||
 
 CLASS: Identifies more than one element, used multiple times (.class)
 ID: identifies only once (#id)
@@ -48,7 +48,7 @@ can share file link
 
 .History {
     font-family: Helvetica;
-    font-size: 20;
+    font-size: 20pt;
     border:
     padding:
 
